@@ -36,7 +36,7 @@ This project leverages the K-Nearest Neighbors (KNN) algorithm to predict stock 
 -   scikit-learn
 -  quandl
 -  matplotlib
-- 
+
 ## Contributions 
 Contributions to this project are welcome! Developers can contribute by adding new features, improving model performance, optimizing code, or fixing bugs.
 
