@@ -5,9 +5,9 @@
 
 - [About](#about)
 - [Features](#features)
-- [Demo](#demo)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
+- [Usage](#usage)
+- [Dependencies](#dependencies)
+- [Contributions](#contributions)
 - [License](#license)
 
 ## About
